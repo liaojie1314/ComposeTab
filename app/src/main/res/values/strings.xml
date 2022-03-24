@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TabDemo</string>
+    <string name="title_activity_accompanist_demo">AccompanistDemo</string>
 </resources>
